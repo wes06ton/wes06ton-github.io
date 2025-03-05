@@ -1,0 +1,57 @@
+<!DOCTYPE html> 
+<html lang="en"> 
+<head> 
+    <meta charset="UTF-8"> 
+    <meta name="viewport" content="width=device-width, initial-scale=1.0"> 
+    <title>DevOps Tools</title> 
+    <link rel="stylesheet" href="style.css"> 
+</head> 
+<body> 
+    <header> 
+        <h1>DevOps Tools I Use</h1> 
+    </header> 
+  
+    <section> 
+        <h2>🚀 Automation & Configuration</h2> 
+        <ul> 
+            <li>Ansible</li> 
+ 
+ 
+            <li>Terraform</li> 
+            <li>Puppet</li> 
+        </ul> 
+    </section> 
+  
+    <section> 
+        <h2>🔄 CI/CD Pipelines</h2> 
+        <ul> 
+            <li>GitHub Actions</li> 
+            <li>Jenkins</li> 
+            <li>GitLab CI/CD</li> 
+        </ul> 
+    </section> 
+  
+    <section> 
+        <h2>📊 Monitoring & Logging</h2> 
+        <ul> 
+            <li>Prometheus</li> 
+            <li>Grafana</li> 
+            <li>Splunk</li> 
+        </ul> 
+    </section> 
+  
+    <section> 
+        <h2>☁️ Cloud & Containerization</h2> 
+        <ul> 
+            <li>Azure</li> 
+            <li>OpenShift</li> 
+            <li>Docker</li> 
+            <li>Kubernetes</li> 
+        </ul> 
+    </section> 
+  
+    <footer class="contact"> 
+        <p><a href="index.html">⬅️ Back to Portfolio</a></p> 
+    </footer> 
+</body> 
+</html>
